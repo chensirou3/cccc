@@ -6,11 +6,8 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/chensirou3/cccc.git
+	url = https://x-access-token:ghs_AVR0sentinel0not0a0real0token0xxxxx@github.com/chensirou3/cccc.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "main"]
 	remote = origin
 	merge = refs/heads/main
-
-[http "https://github.com/"]
-	extraheader = AUTHORIZATION: basic eC1hY2Nlc3MtdG9rZW46QVZSLVNFTlRJTkVMLU5PVC1BLVJFQUwtVE9LRU4tMDAwMA==
